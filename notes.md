@@ -282,7 +282,9 @@ dism /online /get-features | findstr "IIS"
 ```shell
 dotnet --list-runtimes
 ```
-
+```shell
+dotnet --list-sdks
+```
 ---
 
 ### > **Check Running Ports:**
